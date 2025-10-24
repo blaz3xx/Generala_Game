@@ -1,0 +1,10 @@
+D:\PA\GeneralaGame\GeneralaGame\GeneralaGame\bin\Debug\GeneralaGame.exe.config
+D:\PA\GeneralaGame\GeneralaGame\GeneralaGame\bin\Debug\GeneralaGame.exe
+D:\PA\GeneralaGame\GeneralaGame\GeneralaGame\bin\Debug\GeneralaGame.pdb
+D:\PA\GeneralaGame\GeneralaGame\GeneralaGame\obj\Debug\GeneralaGame.csproj.AssemblyReference.cache
+D:\PA\GeneralaGame\GeneralaGame\GeneralaGame\obj\Debug\GeneralaGame.Properties.Resources.resources
+D:\PA\GeneralaGame\GeneralaGame\GeneralaGame\obj\Debug\GeneralaGame.csproj.GenerateResource.cache
+D:\PA\GeneralaGame\GeneralaGame\GeneralaGame\obj\Debug\GeneralaGame.csproj.CoreCompileInputs.cache
+D:\PA\GeneralaGame\GeneralaGame\GeneralaGame\obj\Debug\GeneralaGame.exe
+D:\PA\GeneralaGame\GeneralaGame\GeneralaGame\obj\Debug\GeneralaGame.pdb
+D:\PA\GeneralaGame\GeneralaGame\GeneralaGame\obj\Debug\GeneralaGame.exe.config
