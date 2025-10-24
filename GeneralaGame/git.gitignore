@@ -1,0 +1,10 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.vscode/
+bin/
+obj/
+*.dbmdl
+*.log
+*.vsidx
